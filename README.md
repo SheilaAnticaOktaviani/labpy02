@@ -100,7 +100,7 @@ Dengan struktur ini, program memastikan harga tiket dihitung dengan benar sesuai
 ## 2. Kalkulator sederhana
 Program ini adalah program Kalkulator sederhana yang berfungsi untuk menghitung dua angka sesuai dengan operasi hitung yang dipilih.
 ## Flowcart Kalkulator Sederhana
-![image](https://github.com/user-attachments/assets/dddf3412-c41d-492d-a98e-bc5dc50e3d4b)
+![image](https://github.com/user-attachments/assets/62829500-7cff-47be-991b-a6995e8a2132)
 ## Program akan meminta kita untuk memasukkan 3 angka untuk dibandingkan :
 ```Python
 Masukkan angka pertama: 13
