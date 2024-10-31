@@ -9,7 +9,7 @@ NIM: 312410002
 ## 1. Tiket Bioskop
 Program tiket bioskop ini adalah program untuk menghitung harga Tiket bioskop. Konsepnya adalah jika user memiliki kartu member maka user akan mendapatkan diskon 30%
 ## Flowcart Tiket Bioskop
-![image](https://github.com/user-attachments/assets/e198b63d-c501-4b65-9829-3a25d43f5f96)
+![image](https://github.com/user-attachments/assets/1e95c8d6-d3ee-4626-acf8-ac9524602093)
 ## Program akan meminta user untuk menginputkan tipe tiket
 ```Python
 Masukkan tipe tiket (reguler/vip): vip
@@ -100,7 +100,7 @@ Dengan struktur ini, program memastikan harga tiket dihitung dengan benar sesuai
 ## 2. Kalkulator sederhana
 Program ini adalah program Kalkulator sederhana yang berfungsi untuk menghitung dua angka sesuai dengan operasi hitung yang dipilih.
 ## Flowcart Kalkulator Sederhana
-![image](https://github.com/user-attachments/assets/62829500-7cff-47be-991b-a6995e8a2132)
+![image](https://github.com/user-attachments/assets/96f02bb7-5ad5-453f-94c5-70f3500f85f6)
 ## Program akan meminta kita untuk memasukkan 3 angka untuk dibandingkan :
 ```Python
 Masukkan angka pertama: 13
