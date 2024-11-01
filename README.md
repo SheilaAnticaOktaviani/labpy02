@@ -7,7 +7,7 @@ Kelas: TI.24.A.1
 
 NIM: 312410002
 ## 1. Tiket Bioskop
-Program tiket bioskop ini adalah program untuk menghitung harga Tiket bioskop. Konsepnya adalah jika user memiliki kartu member maka user akan mendapatkan diskon 30%
+Program tiket bioskop ini adalah program untuk menghitung harga Tiket bioskop. Konsepnya adalah jika user memiliki kartu member maka user akan mendapatkan diskon 20%
 ## Flowcart Tiket Bioskop
 ![image](https://github.com/user-attachments/assets/1e95c8d6-d3ee-4626-acf8-ac9524602093)
 ## Program akan meminta user untuk menginputkan tipe tiket
